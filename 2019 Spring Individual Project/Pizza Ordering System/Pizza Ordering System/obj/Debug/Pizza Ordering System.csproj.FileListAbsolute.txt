@@ -1,0 +1,10 @@
+W:\CSC 340\2019 Spring Individual Project\Pizza Ordering System\Pizza Ordering System\bin\Debug\Pizza Ordering System.exe.config
+W:\CSC 340\2019 Spring Individual Project\Pizza Ordering System\Pizza Ordering System\bin\Debug\Pizza Ordering System.exe
+W:\CSC 340\2019 Spring Individual Project\Pizza Ordering System\Pizza Ordering System\bin\Debug\Pizza Ordering System.pdb
+W:\CSC 340\2019 Spring Individual Project\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza Ordering System.csprojAssemblyReference.cache
+W:\CSC 340\2019 Spring Individual Project\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza_Ordering_System.Form1.resources
+W:\CSC 340\2019 Spring Individual Project\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza_Ordering_System.Properties.Resources.resources
+W:\CSC 340\2019 Spring Individual Project\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza Ordering System.csproj.GenerateResource.cache
+W:\CSC 340\2019 Spring Individual Project\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza Ordering System.csproj.CoreCompileInputs.cache
+W:\CSC 340\2019 Spring Individual Project\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza Ordering System.exe
+W:\CSC 340\2019 Spring Individual Project\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza Ordering System.pdb
